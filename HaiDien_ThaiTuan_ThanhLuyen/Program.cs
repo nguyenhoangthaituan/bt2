@@ -6,7 +6,9 @@ namespace HaiDien_ThaiTuan_ThanhLuyen
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Hello my name is Dien");
+            Console.WriteLine("Nguyen Hoang Thai Tuan")
         }
     }
 }
